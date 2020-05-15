@@ -1,0 +1,4 @@
+<?php
+$nome="pedro";
+echo "meu nome e".$nome;
+?>
